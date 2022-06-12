@@ -1,3 +1,3 @@
-# projekt-tnai
+# Projekt-TNAI
 Projekt grupowy na zajęcia z "Tworzenia nowoczesnych aplikacji internetowych".\
 Wykonany w .NET Core 6 w ASP.NET MVC
